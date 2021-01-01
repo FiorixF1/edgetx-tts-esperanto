@@ -261,6 +261,6 @@ SOUNDS/en;fm-hor.wav;flugreĝimo horizonta
 SOUNDS/en;fm-ang.wav;flugreĝimo angula
 SOUNDS/en;airmon.wav;aera reĝimo aktivigita
 SOUNDS/en;airmof.wav;aera reĝimo malaktivigita
-SOUNDS/en;ratlow.wav;malalta angulrapido
-SOUNDS/en;ratmed.wav;meza angulrapido
-SOUNDS/en;rathi.wav;alta angulrapido
+SOUNDS/en;ratlow.wav;malalta rapido
+SOUNDS/en;ratmed.wav;meza rapido
+SOUNDS/en;rathi.wav;alta rapido

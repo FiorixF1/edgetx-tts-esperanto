@@ -20,7 +20,7 @@ Miaj tradukoj baziĝas sur la jenaj rimedoj:
 * [Komputeko](https://komputeko.net/)
 * Aeronaŭtika Terminaro (E. D. Durrant)
 
-Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan tradukon en Esperanto kaj nenie troveblas kolekto pri la leksikono uzata en tiu ĉi fako. Tial mi volus uzi tiun ĉi deponejon ankaŭ kiel vortaron pri dinamika modelismo en Esperanto. Gxia enteno estas legebla sube. Se vi volas aldoni novajn vortojn aŭ proponi aliajn tradukojn, vi povas krei atentindaĵon (*issue*) por diskuti tie aŭ sendi tirpeton (*pull request*).
+Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan tradukon en Esperanto kaj nenie troveblas kolekto pri la leksikono uzata en tiu ĉi fako. Tial mi volus uzi tiun ĉi deponejon ankaŭ kiel vortaron pri dinamika modelismo en Esperanto. Ĝia enteno estas legebla sube. Se vi volas aldoni novajn vortojn aŭ proponi aliajn tradukojn, vi povas krei atentindaĵon (*issue*) por diskuti tie aŭ sendi tirpeton (*pull request*).
 
 | Angla                                              | Esperanto                                          |
 | -------------------------------------------------- | -------------------------------------------------- |
@@ -102,7 +102,6 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Stabilized                                       | Stabiligita                                        |
 | - Head-less                                        | Senkapa                                            |
 | Air mode                                           | Aera reĝimo                                        |
-| Rate                                               | Angulrapido                                        |
 | Resistor                                           | Rezistanco                                         |
 | Capacitor                                          | Kondensatoro                                       |
 | Inductor                                           | Induktilo, bobeno                                  |
@@ -113,13 +112,20 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Flight                                             | Flugo                                              |
 | - Take off                                         | Ekflugi                                            |
 | - Land                                             | Alteriĝi                                           |
-| - Hover                                            | Sxvebi                                             |
+| - Hover                                            | Ŝvebi                                              |
 | - Drift                                            | Drivi                                              |
 | - Turn                                             | Turni                                              |
 | - Spin                                             | Spirali                                            |
 | - Axial roll                                       | Aksa ruliĝo                                        |
 | - Yaw spin                                         | Jora spiralo                                       |
 | - Crash                                            | Kraŝi                                              |
+| Rates                                              | Rapidoj                                            |
+| - RC Rate                                          | Lineara rapido                                     |
+| - Expo                                             | Eksponenciala rapido                               |
+| - Super Rate                                       | Supera rapido                                      |
+| - Throttle Expo                                    | Gasa eksponencialo                                 |
+| - Throttle Mid                                     | Gasa centro                                        |
+| - PID controller                                   | PID-a regilo                                       |
 | Race elements                                      | Konkursaj elementoj                                |
 | - Gate                                             | Pasejo                                             |
 | - Flag                                             | Flago                                              |
