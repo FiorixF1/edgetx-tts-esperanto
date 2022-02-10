@@ -192,7 +192,7 @@ SOUNDS/en/SYSTEM;inactiv.wav;neaktiva radio
 SOUNDS/en/SYSTEM;thralert.wav;averto: aktiva gasostango
 SOUNDS/en/SYSTEM;swalert.wav;averto: aktivaj ŝaltiloj
 SOUNDS/en/SYSTEM;eebad.wav;difekta eepromo
-SOUNDS/en/SYSTEM;hello.wav;Bonvenon al Open To Iks'!
+SOUNDS/en/SYSTEM;hello.wav;Bonvenon al Eĝ To Iks'!
 SOUNDS/en/SYSTEM;rssi_org.wav;malalta radiosignalo
 SOUNDS/en/SYSTEM;rssi_red.wav;kriza radiosignalo
 SOUNDS/en/SYSTEM;swr_red.wav;difekta radioanteno
@@ -207,22 +207,30 @@ SOUNDS/en/SYSTEM;modelpwr.wav;ricevilo ankoraŭ konektita
 SOUNDS/en;armed.wav;armita
 SOUNDS/en;disarm.wav;malarmita
 SOUNDS/en;thrcut.wav;gaso tranĉita
-SOUNDS/en;thract.wav;gaso aktivigita
+SOUNDS/en;thract.wav;gaso aktiva
 SOUNDS/en;gearup.wav;ĉareto malfermita
 SOUNDS/en;geardn.wav;ĉareto fermita
-SOUNDS/en;flapup.wav;flapoj supre
-SOUNDS/en;flapdn.wav;flapoj sube
+SOUNDS/en;flapup.wav;postklapoj supre
+SOUNDS/en;flapdn.wav;postklapoj sube
 SOUNDS/en;splrup.wav;defleksilo supre
 SOUNDS/en;splrdn.wav;defleksilo sube
-SOUNDS/en;trnon.wav;trejnisto aktivigita
-SOUNDS/en;trnoff.wav;trejnisto malaktivigita
-SOUNDS/en;engon.wav;motoro aktivigita
-SOUNDS/en;engoff.wav;motoro malaktivigita
+SOUNDS/en;trnon.wav;trejnisto aktiva
+SOUNDS/en;trnoff.wav;trejnisto malaktiva
+SOUNDS/en;engon.wav;motoro aktiva
+SOUNDS/en;engoff.wav;motoro malaktiva
 SOUNDS/en;tohigh.wav;tro alta!
 SOUNDS/en;tolow.wav;tro malalta!
 SOUNDS/en;lowbat.wav;senŝarga baterio
-SOUNDS/en;crowon.wav;birdobremso aktivigita
-SOUNDS/en;crowof.wav;birdobremso malaktivigita
+SOUNDS/en;crowon.wav;birdobremso aktiva
+SOUNDS/en;crowof.wav;birdobremso malaktiva
+SOUNDS/en;brakon.wav;bremsoj aktivaj
+SOUNDS/en;brakof.wav;bremsoj malaktivaj
+SOUNDS/en;btfon.wav;papilio aktiva
+SOUNDS/en;btfoff.wav;papilio malaktiva
+SOUNDS/en;whlbro.wav;radobremsoj aktivaj
+SOUNDS/en;whlbrf.wav;radobremsoj malaktivaj
+SOUNDS/en;vrion.wav;variometro aktiva
+SOUNDS/en;vrioff.wav;variometro malaktiva
 SOUNDS/en;siglow.wav;malalta radiosignalo
 SOUNDS/en;sigcrt.wav;kriza radiosignalo
 SOUNDS/en;lq.wav;Lo Kuo
@@ -230,8 +238,12 @@ SOUNDS/en;rfmode.wav;radiofrekvenca reĝimo
 SOUNDS/en;spdmod.wav;altrapida reĝimo
 SOUNDS/en;thmmod.wav;termika reĝimo
 SOUNDS/en;nrmmod.wav;normala reĝimo
-SOUNDS/en;lnding.wav;alteriĝa reĝimo
+SOUNDS/en;lndmod.wav;alteriĝa reĝimo
+SOUNDS/en;normod.wav;normala reĝimo
 SOUNDS/en;acro.wav;akrobata reĝimo
+SOUNDS/en;ratmod.wav;akrobata reĝimo
+SOUNDS/en;3d-mod.wav;tridimensia reĝimo
+SOUNDS/en;stabmo.wav;stabiligita reĝimo
 SOUNDS/en;fm-1.wav;flugreĝimo unu
 SOUNDS/en;fm-2.wav;flugreĝimo du
 SOUNDS/en;fm-3.wav;flugreĝimo tri
@@ -240,8 +252,6 @@ SOUNDS/en;fm-5.wav;flugreĝimo kvin
 SOUNDS/en;fm-6.wav;flugreĝimo ses
 SOUNDS/en;fm-7.wav;flugreĝimo sep
 SOUNDS/en;fm-8.wav;flugreĝimo ok
-SOUNDS/en;vrion.wav;variometro aktivigita
-SOUNDS/en;vrioff.wav;variometro malaktivigita
 SOUNDS/en;fm-pwr.wav;flugreĝimo potenco
 SOUNDS/en;fm-lnd.wav;flugreĝimo alteriĝo
 SOUNDS/en;fm-flt.wav;flugreĝimo gliso
@@ -259,8 +269,19 @@ SOUNDS/en;fm-thr.wav;flugreĝimo termika dekstre
 SOUNDS/en;fm-stb.wav;flugreĝimo stabiligita
 SOUNDS/en;fm-hor.wav;flugreĝimo horizonta
 SOUNDS/en;fm-ang.wav;flugreĝimo angula
-SOUNDS/en;airmon.wav;aera reĝimo aktivigita
-SOUNDS/en;airmof.wav;aera reĝimo malaktivigita
+SOUNDS/en;airmon.wav;aera reĝimo aktiva
+SOUNDS/en;airmof.wav;aera reĝimo malaktiva
 SOUNDS/en;ratlow.wav;malalta rapido
 SOUNDS/en;ratmed.wav;meza rapido
 SOUNDS/en;rathi.wav;alta rapido
+SOUNDS/en;takeoff.wav;ekflugo
+SOUNDS/en;landin.wav;alteriĝo
+SOUNDS/en;sport.wav;sporto
+SOUNDS/en;pattern.wav;skemo
+SOUNDS/en;3d.wav;tri do
+SOUNDS/en;on.wav;kondukta
+SOUNDS/en;off.wav;elkluda
+SOUNDS/en;buzact.wav;aktiva zumilo
+SOUNDS/en;crfact.wav;aktiva testuda reĝimo
+SOUNDS/en;blkact.wav;aktiva nigra skatolo
+SOUNDS/en;preact.wav;aktiva antaŭarmado

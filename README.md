@@ -1,10 +1,10 @@
-# OpenTX en Esperanto
+# EdgeTX en Esperanto
 
-Tiu ĉi deponejo entenas voĉajn registraĵojn por radiotranssendiloj kongruaj kun [OpenTX](https://github.com/opentx/opentx).
+Tiu ĉi deponejo entenas voĉajn registraĵojn por radiotranssendiloj kongruaj kun [EdgeTX](https://github.com/EdgeTX/edgetx).
 
 ## Instalo
 
-La mikroprogramaro de OpenTX ne konsideras Esperanton inter siaj ekipitaj lingvoj. Tial, se vi volas voĉon en Esperanto sur via radiotranssendilo, estas necese, ke vi kopiu la dosierojn de tiu ĉi deponejo en ```SOUNDS/en``` kaj anstataŭigu ĝian entenon.
+La mikroprogramaro de EdgeTX ne konsideras Esperanton inter siaj ekipitaj lingvoj. Tial, se vi volas voĉon en Esperanto sur via radiotranssendilo, estas necese, ke vi kopiu la dosierojn de tiu ĉi deponejo en ```SOUNDS/en``` kaj anstataŭigu ĝian entenon.
 
 ## Programado
 
@@ -40,6 +40,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Electronic Speed Controller (ESC)                  | Elektronika rapidregilo                            |
 | Battery Eliminator Circuit (BEC)                   | Bateriforiganta cirkvito                           |
 | Props                                              | Helicoj                                            |
+| - X-inch                                           | X-cola                                             |
 | Battery                                            | Baterio                                            |
 | - Lithium-polymer battery                          | Litia-polimera akumulatoro                         |
 | - Lithium-ion battery                              | Litia-jona akumulatoro                             |
@@ -90,7 +91,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Payload                                            | Utila ŝarĝo                                        |
 | Thrust                                             | Puŝo, tiro                                         |
 | Ground effect                                      | Grundefiko                                         |
-| Flap                                               | Flapo, postklapo                                   |
+| Flap                                               | Postklapo                                          |
 | Spoiler                                            | Defleksilo                                         |
 | Crow                                               | Birdobremso                                        |
 | Armed, disarmed                                    | Armita, malarmita                                  |
@@ -100,11 +101,15 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Horizon                                          | Horizonta                                          |
 | - Manual                                           | Mana                                               |
 | - Stabilized                                       | Stabiligita                                        |
+| - 3D                                               | Tridimensia                                        |                                            |
+| - Turtle                                           | Testuda                                            |                                            |
 | - Head-less                                        | Senkapa                                            |
 | Air mode                                           | Aera reĝimo                                        |
 | Resistor                                           | Rezistanco                                         |
 | Capacitor                                          | Kondensatoro                                       |
 | Inductor                                           | Induktilo, bobeno                                  |
+| Diode                                              | Diodo                                              |
+| LED                                                | Lumdiodo                                           |
 | Ground (electronics)                               | Tero                                               |
 | Firmware                                           | Mikroprogramaro                                    |
 | Altitude                                           | Altitudo                                           |
@@ -136,6 +141,9 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Hurdle                                           | Obstaklo                                           |
 | - Corkscrew                                        | Korktirilo                                         |
 | - Powerloop                                        | Povlopo                                            |
+| - Split-S                                          | Duona S                                            |
+| - Reversed split-S                                 | Kontraŭa duona S                                   |
+| - Dutch 8                                          | Bombono                                            |
 | - Climbing                                         | Grimpado                                           |
 | - Dive                                             | Plonĝo                                             |
 
