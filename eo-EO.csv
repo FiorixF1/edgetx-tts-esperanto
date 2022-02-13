@@ -180,7 +180,7 @@ SOUNDS/en/SYSTEM;0172.wav;komo kvin
 SOUNDS/en/SYSTEM;0173.wav;komo ses
 SOUNDS/en/SYSTEM;0174.wav;komo sep
 SOUNDS/en/SYSTEM;0175.wav;komo ok
-SOUNDS/en/SYSTEM;0176.wav;komo nau
+SOUNDS/en/SYSTEM;0176.wav;komo naŭ
 SOUNDS/en/SYSTEM;midtrim.wav;centrita kompensilo
 SOUNDS/en/SYSTEM;maxtrim.wav;maksimuma kompensilo
 SOUNDS/en/SYSTEM;mintrim.wav;minimuma kompensilo
@@ -229,21 +229,9 @@ SOUNDS/en;btfon.wav;papilio aktiva
 SOUNDS/en;btfoff.wav;papilio malaktiva
 SOUNDS/en;whlbro.wav;radobremsoj aktivaj
 SOUNDS/en;whlbrf.wav;radobremsoj malaktivaj
-SOUNDS/en;vrion.wav;variometro aktiva
-SOUNDS/en;vrioff.wav;variometro malaktiva
 SOUNDS/en;siglow.wav;malalta radiosignalo
 SOUNDS/en;sigcrt.wav;kriza radiosignalo
 SOUNDS/en;lq.wav;Lo Kuo
-SOUNDS/en;rfmode.wav;radiofrekvenca reĝimo
-SOUNDS/en;spdmod.wav;altrapida reĝimo
-SOUNDS/en;thmmod.wav;termika reĝimo
-SOUNDS/en;nrmmod.wav;normala reĝimo
-SOUNDS/en;lndmod.wav;alteriĝa reĝimo
-SOUNDS/en;normod.wav;normala reĝimo
-SOUNDS/en;acro.wav;akrobata reĝimo
-SOUNDS/en;ratmod.wav;akrobata reĝimo
-SOUNDS/en;3d-mod.wav;tridimensia reĝimo
-SOUNDS/en;stabmo.wav;stabiligita reĝimo
 SOUNDS/en;fm-1.wav;flugreĝimo unu
 SOUNDS/en;fm-2.wav;flugreĝimo du
 SOUNDS/en;fm-3.wav;flugreĝimo tri
@@ -252,6 +240,9 @@ SOUNDS/en;fm-5.wav;flugreĝimo kvin
 SOUNDS/en;fm-6.wav;flugreĝimo ses
 SOUNDS/en;fm-7.wav;flugreĝimo sep
 SOUNDS/en;fm-8.wav;flugreĝimo ok
+SOUNDS/en;fm-9.wav;flugreĝimo naŭ
+SOUNDS/en;vrion.wav;variometro aktiva
+SOUNDS/en;vrioff.wav;variometro malaktiva
 SOUNDS/en;fm-pwr.wav;flugreĝimo potenco
 SOUNDS/en;fm-lnd.wav;flugreĝimo alteriĝo
 SOUNDS/en;fm-flt.wav;flugreĝimo gliso
@@ -261,11 +252,12 @@ SOUNDS/en;fm-nrm.wav;flugreĝimo normala
 SOUNDS/en;fm-crs.wav;flugreĝimo krozado
 SOUNDS/en;fm-acr.wav;flugreĝimo akrobata
 SOUNDS/en;fm-rce.wav;flugreĝimo konkurso
-SOUNDS/en;fm-lch.wav;flugreĝimo ekflugo
+SOUNDS/en;fm-lch.wav;flugreĝimo ĵeto
 SOUNDS/en;fm-png.wav;flugreĝimo resalto
 SOUNDS/en;fm-thm.wav;flugreĝimo termika
 SOUNDS/en;fm-thl.wav;flugreĝimo termika live
 SOUNDS/en;fm-thr.wav;flugreĝimo termika dekstre
+SOUNDS/en;fm-rth.wav;flugreĝimo rehejmiĝo
 SOUNDS/en;fm-stb.wav;flugreĝimo stabiligita
 SOUNDS/en;fm-hor.wav;flugreĝimo horizonta
 SOUNDS/en;fm-ang.wav;flugreĝimo angula
@@ -274,14 +266,37 @@ SOUNDS/en;airmof.wav;aera reĝimo malaktiva
 SOUNDS/en;ratlow.wav;malalta rapido
 SOUNDS/en;ratmed.wav;meza rapido
 SOUNDS/en;rathi.wav;alta rapido
+SOUNDS/en;rfmode.wav;radiofrekvenca reĝimo
+SOUNDS/en;spdmod.wav;altrapida reĝimo
+SOUNDS/en;thmmod.wav;termika reĝimo
+SOUNDS/en;nrmmod.wav;normala reĝimo
+SOUNDS/en;lndmod.wav;alteriĝa reĝimo
+SOUNDS/en;normod.wav;normala reĝimo
+SOUNDS/en;ratmod.wav;akrobata reĝimo
+SOUNDS/en;anglmo.wav;angula reĝimo
+SOUNDS/en;stabmo.wav;stabiligita reĝimo
+SOUNDS/en;hormod.wav;horizonta reĝimo
+SOUNDS/en;3d-mod.wav;tridimensia reĝimo
+SOUNDS/en;crfmod.wav;testuda reĝimo
+SOUNDS/en;acro.wav;akrobata
+SOUNDS/en;angle.wav;angula
+SOUNDS/en;horizn.wav;horizonta
+SOUNDS/en;3d.wav;tri do
+SOUNDS/en;turtle.wav;testuda
 SOUNDS/en;takeoff.wav;ekflugo
 SOUNDS/en;landin.wav;alteriĝo
 SOUNDS/en;sport.wav;sporto
 SOUNDS/en;pattern.wav;skemo
-SOUNDS/en;3d.wav;tri do
-SOUNDS/en;on.wav;kondukta
-SOUNDS/en;off.wav;elkluda
-SOUNDS/en;buzact.wav;aktiva zumilo
-SOUNDS/en;crfact.wav;aktiva testuda reĝimo
-SOUNDS/en;blkact.wav;aktiva nigra skatolo
-SOUNDS/en;preact.wav;aktiva antaŭarmado
+SOUNDS/en;on.wav;ek
+SOUNDS/en;off.wav;for
+SOUNDS/en;buzact.wav;zumilo aktiva
+SOUNDS/en;blkact.wav;nigra skatolo aktiva
+SOUNDS/en;preact.wav;antaŭarmado aktiva
+SOUNDS/en;gps.wav;go po so
+SOUNDS/en;alt.wav;altitudo
+SOUNDS/en;fson.wav;panetoleremo aktiva
+SOUNDS/en;fsoff.wav;panetoleremo malaktiva
+SOUNDS/en;satlst.wav;perdita satelito
+SOUNDS/en;satfix.wav;lokalizita satelito
+SOUNDS/en;ledon.wav;lumdiodoj aktivaj
+SOUNDS/en;ledoff.wav;lumdiodoj malaktivaj

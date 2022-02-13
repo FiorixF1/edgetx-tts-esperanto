@@ -32,6 +32,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Quadcopter, quadrotor, quad                      | Kvarkoptero, kvarrotoro, kvaro                     |
 | Frame                                              | Kadro                                              |
 | - Carbon fiber                                     | Karbonfibro                                        |
+| - Canopy                                           | Tuko                                               |
 | Motor                                              | Motoro                                             |
 | - Brushed motor                                    | Brosa motoro                                       |
 | - Brushless motor                                  | Senbrosa motoro                                    |
@@ -41,6 +42,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Battery Eliminator Circuit (BEC)                   | Bateriforiganta cirkvito                           |
 | Props                                              | Helicoj                                            |
 | - X-inch                                           | X-cola                                             |
+| - Pitch                                            | Paŝo                                               |
 | Battery                                            | Baterio                                            |
 | - Lithium-polymer battery                          | Litia-polimera akumulatoro                         |
 | - Lithium-ion battery                              | Litia-jona akumulatoro                             |
@@ -55,6 +57,8 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Camera                                             | Kamerao                                            |
 | - Camera tilt                                      | Kameraa dekliveco                                  |
 | - Field of view                                    | Vidkampo                                           |
+| - Analog                                           | Analoga                                            |
+| - Digital                                          | Diĝita                                             |
 | Antenna                                            | Anteno                                             |
 | Video transmitter                                  | Videotranssendilo                                  |
 | Buzzer                                             | Zumilo                                             |
@@ -75,6 +79,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Channel                                            | Kanalo                                             |
 | Telemetry                                          | Telemetrio                                         |
 | Failsafe                                           | Panetolera, panetoleremo                           |
+| Beacon                                             | Radiogvidilo                                       |
 | Flyaway                                            | Forflugo                                           |
 | Bind                                               | Bindi                                              |
 | Bando                                              | Forlasejo                                          |
@@ -89,7 +94,9 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Pitch                                              | Tango                                              |
 | Yaw                                                | Joro                                               |
 | Payload                                            | Utila ŝarĝo                                        |
+| Drag resistance                                    | Flugrezisto                                        |
 | Thrust                                             | Puŝo, tiro                                         |
+| Lift                                               | Levo                                               |
 | Ground effect                                      | Grundefiko                                         |
 | Flap                                               | Postklapo                                          |
 | Spoiler                                            | Defleksilo                                         |
@@ -105,6 +112,8 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Turtle                                           | Testuda                                            |                                            |
 | - Head-less                                        | Senkapa                                            |
 | Air mode                                           | Aera reĝimo                                        |
+| Return to home                                     | Rehejmiĝo                                          |
+| Launch control                                     | Ĵetkontrolo                                        |
 | Resistor                                           | Rezistanco                                         |
 | Capacitor                                          | Kondensatoro                                       |
 | Inductor                                           | Induktilo, bobeno                                  |
@@ -113,6 +122,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Ground (electronics)                               | Tero                                               |
 | Firmware                                           | Mikroprogramaro                                    |
 | Altitude                                           | Altitudo                                           |
+| Attitude                                           | Pozo                                               |
 | Pilot                                              | Piloto                                             |
 | Flight                                             | Flugo                                              |
 | - Take off                                         | Ekflugi                                            |
@@ -131,6 +141,8 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Throttle Expo                                    | Gasa eksponencialo                                 |
 | - Throttle Mid                                     | Gasa centro                                        |
 | - PID controller                                   | PID-a regilo                                       |
+| - Filters                                          | Filtriloj                                          |
+| - Black box                                        | Nigra skatolo                                      |
 | Race elements                                      | Konkursaj elementoj                                |
 | - Gate                                             | Pasejo                                             |
 | - Flag                                             | Flago                                              |

@@ -216,7 +216,7 @@ def tts_eo(path, name, text):
 
 
 
-with open("SOUNDS/en/SYSTEM/eo-EO-taranis.csv") as file:
+with open("eo-EO.csv") as file:
     lines = file.readlines()
 
 for line in lines:
