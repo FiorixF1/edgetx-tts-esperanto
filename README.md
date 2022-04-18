@@ -37,6 +37,10 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Brushed motor                                    | Brosa motoro                                       |
 | - Brushless motor                                  | Senbrosa motoro                                    |
 | - Shaft                                            | Ŝafto                                              |
+| - Magnet                                           | Magneto                                            |
+| - Windings                                         | Bobenaĵoj                                          |
+| - Bell                                             | Kloŝo                                              |
+| - Bearing                                          | Lagro                                              |
 | Flight controller                                  | Flugregilo                                         |
 | Electronic Speed Controller (ESC)                  | Elektronika rapidregilo                            |
 | Battery Eliminator Circuit (BEC)                   | Bateriforiganta cirkvito                           |
@@ -59,6 +63,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Field of view                                    | Vidkampo                                           |
 | - Analog                                           | Analoga                                            |
 | - Digital                                          | Diĝita                                             |
+| - Lens                                             | Lenso                                              |
 | Antenna                                            | Anteno                                             |
 | Video transmitter                                  | Videotranssendilo                                  |
 | Buzzer                                             | Zumilo                                             |
@@ -108,12 +113,13 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Horizon                                          | Horizonta                                          |
 | - Manual                                           | Mana                                               |
 | - Stabilized                                       | Stabiligita                                        |
-| - 3D                                               | Tridimensia                                        |                                            |
-| - Turtle                                           | Testuda                                            |                                            |
+| - 3D                                               | Tridimensia                                        |
+| - Turtle (crash-flip)                              | Testuda (kraŝturniĝo)                              |
 | - Head-less                                        | Senkapa                                            |
 | Air mode                                           | Aera reĝimo                                        |
+| Pit mode                                           | Remiza reĝimo                                      |
 | Return to home                                     | Rehejmiĝo                                          |
-| Launch control                                     | Ĵetkontrolo                                        |
+| Launch control                                     | Startokontrolo                                     |
 | Resistor                                           | Rezistanco                                         |
 | Capacitor                                          | Kondensatoro                                       |
 | Inductor                                           | Induktilo, bobeno                                  |
@@ -121,7 +127,10 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | LED                                                | Lumdiodo                                           |
 | Ground (electronics)                               | Tero                                               |
 | Firmware                                           | Mikroprogramaro                                    |
+| Latitude                                           | Latitudo                                           |
+| Longitude                                          | Longitudo                                          |
 | Altitude                                           | Altitudo                                           |
+| Waypoint                                           | Vojpunkto                                          |
 | Attitude                                           | Pozo                                               |
 | Pilot                                              | Piloto                                             |
 | Flight                                             | Flugo                                              |
@@ -143,6 +152,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - PID controller                                   | PID-a regilo                                       |
 | - Filters                                          | Filtriloj                                          |
 | - Black box                                        | Nigra skatolo                                      |
+| - Tuning                                           | Rafinado                                           |
 | Race elements                                      | Konkursaj elementoj                                |
 | - Gate                                             | Pasejo                                             |
 | - Flag                                             | Flago                                              |
@@ -158,4 +168,5 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Dutch 8                                          | Bombono                                            |
 | - Climbing                                         | Grimpado                                           |
 | - Dive                                             | Plonĝo                                             |
+| - High jump                                        | Altosaltado                                        |
 
