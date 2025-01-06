@@ -8,16 +8,18 @@ La mikroprogramaro de EdgeTX ne konsideras Esperanton inter siaj ekipitaj lingvo
 
 ## Programado
 
-Se vi volas aldoni aŭ ĝisdatigi la tradukojn, estas necese modifi la dosieron ```SOUNDS/en/SYSTEM/eo-EO-taranis.csv``` kaj poste ruli ```python3 tts_eo.py```. Tio generos la novajn sondosierojn. Tamen antaŭ ol fari tion, instalu ```sox``` tajpante ```sudo apt-get install sox libsox-fmt-mp3```.
+Se vi volas aldoni aŭ ĝisdatigi la tradukojn, estas necese modifi la dosieron ```eo-EO.csv``` kaj poste ruli ```python3 tts_eo.py```. Tio generos la novajn sondosierojn. Tamen antaŭ ol fari tion, instalu ```sox``` tajpante ```sudo apt-get install sox libsox-fmt-mp3```.
 
 La voĉoj en Esperanto estas produktitaj danke al [Parol](https://parol.martinrue.com/), projekto kreita de [Martin Rue](https://github.com/martinrue).
 
 ## Traduko
 
 Miaj tradukoj baziĝas sur la jenaj rimedoj:
-* [Vikipedio](https://eo.wikipedia.org)
-* [Glosbe](https://glosbe.com/en/eo/)
 * [Komputeko](https://komputeko.net/)
+* [Glosbe](https://glosbe.com/en/eo/)
+* [PIV 2022](https://vortaro.net/)
+* [hVortaro](https://dizionario.esperanto.it/trova.php)
+* [Vikipedio](https://eo.wikipedia.org)
 * Aeronaŭtika Terminaro (E. D. Durrant)
 
 Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan tradukon en Esperanto kaj nenie troveblas kolekto pri la leksikono uzata en tiu ĉi fako. Tial mi volus uzi tiun ĉi deponejon ankaŭ kiel vortaron pri dinamika modelismo en Esperanto. Ĝia enteno estas legebla sube. Se vi volas aldoni novajn vortojn aŭ proponi aliajn tradukojn, vi povas krei atentindaĵon (*issue*) por diskuti tie aŭ sendi tirpeton (*pull request*).
@@ -41,9 +43,6 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Windings                                         | Bobenaĵoj                                          |
 | - Bell                                             | Kloŝo                                              |
 | - Bearing                                          | Lagro                                              |
-| Flight controller                                  | Flugregilo                                         |
-| Electronic Speed Controller (ESC)                  | Elektronika rapidregilo                            |
-| Battery Eliminator Circuit (BEC)                   | Bateriforiganta cirkvito                           |
 | Props                                              | Helicoj                                            |
 | - X-inch                                           | X-cola                                             |
 | - Pitch                                            | Paŝo                                               |
@@ -58,11 +57,16 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Current                                          | Kurento                                            |
 | - Power                                            | Povumo                                             |
 | - Cell                                             | Ĉelo                                               |
+| - Battery Eliminator Circuit (BEC)                 | Bateriforiganta cirkvito                           |
+| Flight controller                                  | Flugregilo                                         |
+| Electronic Speed Controller (ESC)                  | Elektronika rapidregilo                            |
+| Receiver                                           | Ricevilo                                           |
+| - Diversity receiver                               | Diverseca ricevilo                                 |
 | Camera                                             | Kamerao                                            |
 | - Camera tilt                                      | Kameraa dekliveco                                  |
 | - Field of view                                    | Vidkampo                                           |
 | - Analog                                           | Analoga                                            |
-| - Digital                                          | Diĝita                                             |
+| - Digital                                          | Cifereca                                           |
 | - Lens                                             | Lenso                                              |
 | Antenna                                            | Anteno                                             |
 | Video transmitter                                  | Videotranssendilo                                  |
@@ -76,10 +80,9 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Goggles                                            | Vidilo                                             |
 | On-Screen Display (OSD)                            | Surekrana videbligo                                |
 | Radio transmitter                                  | Radiotranssendilo                                  |
-| Receiver                                           | Ricevilo                                           |
-| - Diversity receiver                               | Diverseca ricevilo                                 |
 | Radio-controlled (RC)                              | Radioregata                                        |
 | Radio-controller                                   | Radioregilo                                        |
+| Trainer                                            | Trejnisto                                          |
 | (Frequency) band                                   | (Frekvenc)bendo                                    |
 | Channel                                            | Kanalo                                             |
 | Telemetry                                          | Telemetrio                                         |
@@ -92,7 +95,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Switch                                             | Ŝaltilo                                            |
 | Servo-                                             | Relajso-                                           |
 | Trim                                               | Kompensilo                                         |
-| Timer                                              | Tempomezurilo                                      |
+| Timer                                              | Tempumilo                                          |
 | Gimbal                                             | Kardano                                            |
 | Throttle                                           | Gaso                                               |
 | Roll                                               | Ruliĝo                                             |
@@ -105,11 +108,15 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Ground effect                                      | Grundefiko                                         |
 | Flap                                               | Postklapo                                          |
 | Spoiler                                            | Defleksilo                                         |
+| Gear                                               | Ĉareto                                             |
+| Brakes                                             | Bremsoj                                            |
+| Wheelbrakes                                        | Radobremsoj                                        |
 | Crow                                               | Birdobremso                                        |
+| Wingsweep                                          | Alangulo                                           |
 | Armed, disarmed                                    | Armita, malarmita                                  |
 | Flight mode                                        | Flugreĝimo                                         |
-| - Acro                                             | Akrobata                                           |
-| - Angle                                            | Angula                                             |
+| - Acro, rate                                       | Akrobata, rapida                                   |
+| - Angle, level                                     | Angula, nivela                                     |
 | - Horizon                                          | Horizonta                                          |
 | - Manual                                           | Mana                                               |
 | - Stabilized                                       | Stabiligita                                        |
@@ -118,6 +125,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Head-less                                        | Senkapa                                            |
 | Air mode                                           | Aera reĝimo                                        |
 | Pit mode                                           | Remiza reĝimo                                      |
+| Launch mode                                        | Starta reĝimo                                      |
 | Return to home                                     | Rehejmiĝo                                          |
 | Launch control                                     | Startokontrolo                                     |
 | Resistor                                           | Rezistanco                                         |
@@ -131,12 +139,14 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Longitude                                          | Longitudo                                          |
 | Altitude                                           | Altitudo                                           |
 | Waypoint                                           | Vojpunkto                                          |
+| Heading                                            | Direkto                                            |
 | Attitude                                           | Pozo                                               |
 | Pilot                                              | Piloto                                             |
 | Flight                                             | Flugo                                              |
 | - Take off                                         | Ekflugi                                            |
 | - Land                                             | Alteriĝi                                           |
 | - Hover                                            | Ŝvebi                                              |
+| - Cruise                                           | Krozi                                              |
 | - Drift                                            | Drivi                                              |
 | - Turn                                             | Turni                                              |
 | - Spin                                             | Spirali                                            |

@@ -1,327 +1,347 @@
-SOUNDS/en/SYSTEM;0000.wav;nul
-SOUNDS/en/SYSTEM;0001.wav;1
-SOUNDS/en/SYSTEM;0002.wav;2
-SOUNDS/en/SYSTEM;0003.wav;3
-SOUNDS/en/SYSTEM;0004.wav;4
-SOUNDS/en/SYSTEM;0005.wav;5
-SOUNDS/en/SYSTEM;0006.wav;6
-SOUNDS/en/SYSTEM;0007.wav;7
-SOUNDS/en/SYSTEM;0008.wav;8
-SOUNDS/en/SYSTEM;0009.wav;9
-SOUNDS/en/SYSTEM;0010.wav;10
-SOUNDS/en/SYSTEM;0011.wav;11
-SOUNDS/en/SYSTEM;0012.wav;12
-SOUNDS/en/SYSTEM;0013.wav;13
-SOUNDS/en/SYSTEM;0014.wav;14
-SOUNDS/en/SYSTEM;0015.wav;15
-SOUNDS/en/SYSTEM;0016.wav;16
-SOUNDS/en/SYSTEM;0017.wav;17
-SOUNDS/en/SYSTEM;0018.wav;18
-SOUNDS/en/SYSTEM;0019.wav;19
-SOUNDS/en/SYSTEM;0020.wav;20
-SOUNDS/en/SYSTEM;0021.wav;21
-SOUNDS/en/SYSTEM;0022.wav;22
-SOUNDS/en/SYSTEM;0023.wav;23
-SOUNDS/en/SYSTEM;0024.wav;24
-SOUNDS/en/SYSTEM;0025.wav;25
-SOUNDS/en/SYSTEM;0026.wav;26
-SOUNDS/en/SYSTEM;0027.wav;27
-SOUNDS/en/SYSTEM;0028.wav;28
-SOUNDS/en/SYSTEM;0029.wav;29
-SOUNDS/en/SYSTEM;0030.wav;30
-SOUNDS/en/SYSTEM;0031.wav;31
-SOUNDS/en/SYSTEM;0032.wav;32
-SOUNDS/en/SYSTEM;0033.wav;33
-SOUNDS/en/SYSTEM;0034.wav;34
-SOUNDS/en/SYSTEM;0035.wav;35
-SOUNDS/en/SYSTEM;0036.wav;36
-SOUNDS/en/SYSTEM;0037.wav;37
-SOUNDS/en/SYSTEM;0038.wav;38
-SOUNDS/en/SYSTEM;0039.wav;39
-SOUNDS/en/SYSTEM;0040.wav;40
-SOUNDS/en/SYSTEM;0041.wav;41
-SOUNDS/en/SYSTEM;0042.wav;42
-SOUNDS/en/SYSTEM;0043.wav;43
-SOUNDS/en/SYSTEM;0044.wav;44
-SOUNDS/en/SYSTEM;0045.wav;45
-SOUNDS/en/SYSTEM;0046.wav;46
-SOUNDS/en/SYSTEM;0047.wav;47
-SOUNDS/en/SYSTEM;0048.wav;48
-SOUNDS/en/SYSTEM;0049.wav;49
-SOUNDS/en/SYSTEM;0050.wav;50
-SOUNDS/en/SYSTEM;0051.wav;51
-SOUNDS/en/SYSTEM;0052.wav;52
-SOUNDS/en/SYSTEM;0053.wav;53
-SOUNDS/en/SYSTEM;0054.wav;54
-SOUNDS/en/SYSTEM;0055.wav;55
-SOUNDS/en/SYSTEM;0056.wav;56
-SOUNDS/en/SYSTEM;0057.wav;57
-SOUNDS/en/SYSTEM;0058.wav;58
-SOUNDS/en/SYSTEM;0059.wav;59
-SOUNDS/en/SYSTEM;0060.wav;60
-SOUNDS/en/SYSTEM;0061.wav;61
-SOUNDS/en/SYSTEM;0062.wav;62
-SOUNDS/en/SYSTEM;0063.wav;63
-SOUNDS/en/SYSTEM;0064.wav;64
-SOUNDS/en/SYSTEM;0065.wav;65
-SOUNDS/en/SYSTEM;0066.wav;66
-SOUNDS/en/SYSTEM;0067.wav;67
-SOUNDS/en/SYSTEM;0068.wav;68
-SOUNDS/en/SYSTEM;0069.wav;69
-SOUNDS/en/SYSTEM;0070.wav;70
-SOUNDS/en/SYSTEM;0071.wav;71
-SOUNDS/en/SYSTEM;0072.wav;72
-SOUNDS/en/SYSTEM;0073.wav;73
-SOUNDS/en/SYSTEM;0074.wav;74
-SOUNDS/en/SYSTEM;0075.wav;75
-SOUNDS/en/SYSTEM;0076.wav;76
-SOUNDS/en/SYSTEM;0077.wav;77
-SOUNDS/en/SYSTEM;0078.wav;78
-SOUNDS/en/SYSTEM;0079.wav;79
-SOUNDS/en/SYSTEM;0080.wav;80
-SOUNDS/en/SYSTEM;0081.wav;81
-SOUNDS/en/SYSTEM;0082.wav;82
-SOUNDS/en/SYSTEM;0083.wav;83
-SOUNDS/en/SYSTEM;0084.wav;84
-SOUNDS/en/SYSTEM;0085.wav;85
-SOUNDS/en/SYSTEM;0086.wav;86
-SOUNDS/en/SYSTEM;0087.wav;87
-SOUNDS/en/SYSTEM;0088.wav;88
-SOUNDS/en/SYSTEM;0089.wav;89
-SOUNDS/en/SYSTEM;0090.wav;90
-SOUNDS/en/SYSTEM;0091.wav;91
-SOUNDS/en/SYSTEM;0092.wav;92
-SOUNDS/en/SYSTEM;0093.wav;93
-SOUNDS/en/SYSTEM;0094.wav;94
-SOUNDS/en/SYSTEM;0095.wav;95
-SOUNDS/en/SYSTEM;0096.wav;96
-SOUNDS/en/SYSTEM;0097.wav;97
-SOUNDS/en/SYSTEM;0098.wav;98
-SOUNDS/en/SYSTEM;0099.wav;99
-SOUNDS/en/SYSTEM;0100.wav;100
-SOUNDS/en/SYSTEM;0101.wav;200
-SOUNDS/en/SYSTEM;0102.wav;300
-SOUNDS/en/SYSTEM;0103.wav;400
-SOUNDS/en/SYSTEM;0104.wav;500
-SOUNDS/en/SYSTEM;0105.wav;600
-SOUNDS/en/SYSTEM;0106.wav;700
-SOUNDS/en/SYSTEM;0107.wav;800
-SOUNDS/en/SYSTEM;0108.wav;900
-SOUNDS/en/SYSTEM;0109.wav;1000
-SOUNDS/en/SYSTEM;0110.wav;kaj
-SOUNDS/en/SYSTEM;0111.wav;minus
-SOUNDS/en/SYSTEM;0112.wav;komo
-SOUNDS/en/SYSTEM;volt0.wav;volto
-SOUNDS/en/SYSTEM;volt1.wav;voltoj
-SOUNDS/en/SYSTEM;amp0.wav;ampero
-SOUNDS/en/SYSTEM;amp1.wav;amperoj
-SOUNDS/en/SYSTEM;mamp0.wav;miliampero
-SOUNDS/en/SYSTEM;mamp1.wav;miliamperoj
-SOUNDS/en/SYSTEM;knot0.wav;nodo
-SOUNDS/en/SYSTEM;knot1.wav;nodoj
-SOUNDS/en/SYSTEM;mps0.wav;metro en sekundo
-SOUNDS/en/SYSTEM;mps1.wav;metroj en sekundo
-SOUNDS/en/SYSTEM;fps0.wav;futo en sekundo
-SOUNDS/en/SYSTEM;fps1.wav;futoj en sekundo
-SOUNDS/en/SYSTEM;kph0.wav;kilometro en horo
-SOUNDS/en/SYSTEM;kph1.wav;kilometroj en horo
-SOUNDS/en/SYSTEM;mph0.wav;mejlo en horo
-SOUNDS/en/SYSTEM;mph1.wav;mejloj en horo
-SOUNDS/en/SYSTEM;meter0.wav;metro
-SOUNDS/en/SYSTEM;meter1.wav;metroj
-SOUNDS/en/SYSTEM;foot0.wav;futo
-SOUNDS/en/SYSTEM;foot1.wav;futoj
-SOUNDS/en/SYSTEM;celsius0.wav;celsia grado
-SOUNDS/en/SYSTEM;celsius1.wav;celsiaj gradoj
-SOUNDS/en/SYSTEM;fahr0.wav;farenhejta grado
-SOUNDS/en/SYSTEM;fahr1.wav;farenhejtaj gradoj
-SOUNDS/en/SYSTEM;percent0.wav;procento
-SOUNDS/en/SYSTEM;percent1.wav;procentoj
-SOUNDS/en/SYSTEM;mamph0.wav;miliamperhoro
-SOUNDS/en/SYSTEM;mamph1.wav;miliamperhoroj
-SOUNDS/en/SYSTEM;watt0.wav;vato
-SOUNDS/en/SYSTEM;watt1.wav;vatoj
-SOUNDS/en/SYSTEM;mwatt0.wav;milivato
-SOUNDS/en/SYSTEM;mwatt1.wav;milivatoj
-SOUNDS/en/SYSTEM;db0.wav;decibelo
-SOUNDS/en/SYSTEM;db1.wav;decibeloj
-SOUNDS/en/SYSTEM;rpm0.wav;rivoluo en minuto
-SOUNDS/en/SYSTEM;rpm1.wav;rivoluoj en minuto
-SOUNDS/en/SYSTEM;g0.wav;go-o
-SOUNDS/en/SYSTEM;g1.wav;go-oj
-SOUNDS/en/SYSTEM;degree0.wav;grado
-SOUNDS/en/SYSTEM;degree1.wav;gradoj
-SOUNDS/en/SYSTEM;rad0.wav;radiano
-SOUNDS/en/SYSTEM;rad1.wav;radianoj
-SOUNDS/en/SYSTEM;ml0.wav;mililitro
-SOUNDS/en/SYSTEM;ml1.wav;mililitroj
-SOUNDS/en/SYSTEM;founce0.wav;fluidunco
-SOUNDS/en/SYSTEM;founce1.wav;fluiduncoj
-SOUNDS/en/SYSTEM;mlpm0.wav;mililitro en minuto
-SOUNDS/en/SYSTEM;mlpm1.wav;mililitroj en minuto
-SOUNDS/en/SYSTEM;hertz0.wav;herco
-SOUNDS/en/SYSTEM;hertz1.wav;hercoj
-SOUNDS/en/SYSTEM;ms0.wav;milisekundo
-SOUNDS/en/SYSTEM;ms1.wav;milisekundoj
-SOUNDS/en/SYSTEM;us0.wav;mikrosekundo
-SOUNDS/en/SYSTEM;us1.wav;mikrosekundoj
-SOUNDS/en/SYSTEM;hour0.wav;horo
-SOUNDS/en/SYSTEM;hour1.wav;horoj
-SOUNDS/en/SYSTEM;minute0.wav;minuto
-SOUNDS/en/SYSTEM;minute1.wav;minutoj
-SOUNDS/en/SYSTEM;second0.wav;sekundo
-SOUNDS/en/SYSTEM;second1.wav;sekundoj
-SOUNDS/en/SYSTEM;0167.wav;komo nul
-SOUNDS/en/SYSTEM;0168.wav;komo unu
-SOUNDS/en/SYSTEM;0169.wav;komo du
-SOUNDS/en/SYSTEM;0170.wav;komo tri
-SOUNDS/en/SYSTEM;0171.wav;komo kvar
-SOUNDS/en/SYSTEM;0172.wav;komo kvin
-SOUNDS/en/SYSTEM;0173.wav;komo ses
-SOUNDS/en/SYSTEM;0174.wav;komo sep
-SOUNDS/en/SYSTEM;0175.wav;komo ok
-SOUNDS/en/SYSTEM;0176.wav;komo naŭ
-SOUNDS/en/SYSTEM;midtrim.wav;centrita kompensilo
-SOUNDS/en/SYSTEM;maxtrim.wav;maksimuma kompensilo
-SOUNDS/en/SYSTEM;mintrim.wav;minimuma kompensilo
-SOUNDS/en/SYSTEM;timovr1.wav;tempomezurilo 1 finiĝinta
-SOUNDS/en/SYSTEM;timovr2.wav;tempomezurilo 2 finiĝinta
-SOUNDS/en/SYSTEM;timovr3.wav;tempomezurilo 3 finiĝinta
-SOUNDS/en/SYSTEM;lowbatt.wav;senŝarga baterio
-SOUNDS/en/SYSTEM;inactiv.wav;neaktiva radio
-SOUNDS/en/SYSTEM;thralert.wav;averto: aktiva gasostango
-SOUNDS/en/SYSTEM;swalert.wav;averto: aktivaj ŝaltiloj
-SOUNDS/en/SYSTEM;eebad.wav;difekta eepromo
-SOUNDS/en/SYSTEM;hello.wav;Bonvenon al Eĝ To Iks'!
-SOUNDS/en/SYSTEM;rssi_org.wav;malalta radiosignalo
-SOUNDS/en/SYSTEM;rssi_red.wav;kriza radiosignalo
-SOUNDS/en/SYSTEM;swr_red.wav;difekta radioanteno
-SOUNDS/en/SYSTEM;telemko.wav;perdita telemetrio
-SOUNDS/en/SYSTEM;telemok.wav;reakirita telemetrio
-SOUNDS/en/SYSTEM;trainko.wav;perdita trejnistosignalo
-SOUNDS/en/SYSTEM;trainok.wav;reakirita trejnistosignalo
-SOUNDS/en/SYSTEM;sensorko.wav;perdita sensoro
-SOUNDS/en/SYSTEM;servoko.wav;troŝarĝita relajso
-SOUNDS/en/SYSTEM;rxko.wav;povumotroŝarĝo
-SOUNDS/en/SYSTEM;modelpwr.wav;ricevilo ankoraŭ konektita
-SOUNDS/en;armed.wav;armita
-SOUNDS/en;disarm.wav;malarmita
-SOUNDS/en;thrcut.wav;gaso tranĉita
-SOUNDS/en;thract.wav;gaso aktiva
-SOUNDS/en;gearup.wav;ĉareto malfermita
-SOUNDS/en;geardn.wav;ĉareto fermita
-SOUNDS/en;flapup.wav;postklapoj supre
-SOUNDS/en;flapdn.wav;postklapoj sube
-SOUNDS/en;splrup.wav;defleksilo supre
-SOUNDS/en;splrdn.wav;defleksilo sube
-SOUNDS/en;trnon.wav;trejnisto aktiva
-SOUNDS/en;trnoff.wav;trejnisto malaktiva
-SOUNDS/en;engon.wav;motoro aktiva
-SOUNDS/en;engoff.wav;motoro malaktiva
-SOUNDS/en;tohigh.wav;tro alta!
-SOUNDS/en;tolow.wav;tro malalta!
-SOUNDS/en;lowbat.wav;senŝarga baterio
-SOUNDS/en;crowon.wav;birdobremso aktiva
-SOUNDS/en;crowof.wav;birdobremso malaktiva
-SOUNDS/en;siglow.wav;malalta radiosignalo
-SOUNDS/en;sigcrt.wav;kriza radiosignalo
-SOUNDS/en;lq.wav;Lo Kuo
-SOUNDS/en;rfmode.wav;radiofrekvenca reĝimo
-SOUNDS/en;spdmod.wav;altrapida reĝimo
-SOUNDS/en;thmmod.wav;termika reĝimo
-SOUNDS/en;nrmmod.wav;normala reĝimo
-SOUNDS/en;lnding.wav;alteriĝa reĝimo
-SOUNDS/en;acro.wav;akrobata
-SOUNDS/en;angle.wav;angula
-SOUNDS/en;horizn.wav;horizonta
-SOUNDS/en;turtle.wav;testuda
-SOUNDS/en;fm-1.wav;flugreĝimo unu
-SOUNDS/en;fm-2.wav;flugreĝimo du
-SOUNDS/en;fm-3.wav;flugreĝimo tri
-SOUNDS/en;fm-4.wav;flugreĝimo kvar
-SOUNDS/en;fm-5.wav;flugreĝimo kvin
-SOUNDS/en;fm-6.wav;flugreĝimo ses
-SOUNDS/en;fm-7.wav;flugreĝimo sep
-SOUNDS/en;fm-8.wav;flugreĝimo ok
-SOUNDS/en;fm-9.wav;flugreĝimo naŭ
-SOUNDS/en;vrion.wav;variometro aktiva
-SOUNDS/en;vrioff.wav;variometro malaktiva
-SOUNDS/en;fm-pwr.wav;flugreĝimo potenco
-SOUNDS/en;fm-lnd.wav;flugreĝimo alteriĝo
-SOUNDS/en;fm-flt.wav;flugreĝimo gliso
-SOUNDS/en;fm-spd.wav;flugreĝimo rapideco
-SOUNDS/en;fm-fst.wav;flugreĝimo rapida
-SOUNDS/en;fm-nrm.wav;flugreĝimo normala
-SOUNDS/en;fm-crs.wav;flugreĝimo krozado
-SOUNDS/en;fm-acr.wav;flugreĝimo akrobata
-SOUNDS/en;fm-rce.wav;flugreĝimo konkurso
-SOUNDS/en;fm-lch.wav;flugreĝimo ĵeto
-SOUNDS/en;fm-png.wav;flugreĝimo resalto
-SOUNDS/en;fm-thm.wav;flugreĝimo termika
-SOUNDS/en;fm-thl.wav;flugreĝimo termika live
-SOUNDS/en;fm-thr.wav;flugreĝimo termika dekstre
-SOUNDS/en;fm-rth.wav;flugreĝimo rehejmiĝo
-SOUNDS/en;fm-stb.wav;flugreĝimo stabiligita
-SOUNDS/en;fm-hor.wav;flugreĝimo horizonta
-SOUNDS/en;fm-ang.wav;flugreĝimo angula
-SOUNDS/en;ratlow.wav;malalta rapido
-SOUNDS/en;ratmed.wav;meza rapido
-SOUNDS/en;rathi.wav;alta rapido
-SOUNDS/en;takeoff.wav;ekflugo
-SOUNDS/en;sport.wav;sporto
-SOUNDS/en;pattern.wav;skemo
-SOUNDS/en;3d.wav;tri do
-SOUNDS/en;landin.wav;alteriĝo
-SOUNDS/en;normod.wav;normala reĝimo
-SOUNDS/en;ratmod.wav;akrobata reĝimo
-SOUNDS/en;3d-mod.wav;tridimensia reĝimo
-SOUNDS/en;stabmo.wav;stabiligita reĝimo
-SOUNDS/en;on.wav;ek
-SOUNDS/en;off.wav;for
-SOUNDS/en;buzact.wav;zumilo aktiva
-SOUNDS/en;crfact.wav;kraŝturniĝo aktiva
-SOUNDS/en;blkact.wav;nigra skatolo aktiva
-SOUNDS/en;preact.wav;antaŭarmado aktiva
-SOUNDS/en;stbmod.wav;stabila reĝimo
-SOUNDS/en;brakon.wav;bremsoj aktivaj
-SOUNDS/en;brakof.wav;bremsoj malaktivaj
-SOUNDS/en;btfon.wav;papilio aktiva
-SOUNDS/en;btfoff.wav;papilio malaktiva
-SOUNDS/en;flp1.wav;postklapoj unu
-SOUNDS/en;flp2.wav;postklapoj du
-SOUNDS/en;flp3.wav;postklapoj tri
-SOUNDS/en;flp4.wav;postklapoj kvar
-SOUNDS/en;flp5.wav;postklapoj kvin
-SOUNDS/en;whlbro.wav;radobremsoj aktivaj
-SOUNDS/en;whlbrf.wav;radobremsoj malaktivaj
-SOUNDS/en;manmod.wav;mana reĝimo
-SOUNDS/en;acrmod.wav;akrobata reĝimo
-SOUNDS/en;angmod.wav;angula reĝimo
-SOUNDS/en;hznmod.wav;horizonta reĝimo
-SOUNDS/en;laumod.wav;starta reĝimo
-SOUNDS/en;gps.wav;go po so
-SOUNDS/en;alt.wav;altitudo
-SOUNDS/en;fson.wav;panetoleremo aktiva
-SOUNDS/en;fsoff.wav;panetoleremo malaktiva
-SOUNDS/en;satlst.wav;perdita satelito
-SOUNDS/en;satfix.wav;lokalizita satelito
-SOUNDS/en;ledon.wav;lumdiodoj aktivaj
-SOUNDS/en;ledoff.wav;lumdiodoj malaktivaj
-SOUNDS/en;airmod.wav;aera reĝimo
-SOUNDS/en;pitmod.wav;remiza reĝimo
-SOUNDS/en;navcrs.wav;navigado krozado
-SOUNDS/en;navcsh.wav;navigado raŭtogardo
-SOUNDS/en;navalh.wav;navigado altitudogardo
-SOUNDS/en;navpos.wav;navigado poziciogardo
-SOUNDS/en;navrth.wav;navigado rehejmiĝo
-SOUNDS/en;navwp.wav;navigado vojpunkto
-SOUNDS/en;cruise.wav;krozado
-SOUNDS/en;crshld.wav;raŭtogardo
-SOUNDS/en;althld.wav;altitudogardo
-SOUNDS/en;poshld.wav;poziciogardo
-SOUNDS/en;rth.wav;rehejmiĝo
-SOUNDS/en;waypnt.wav;vojpunkto
-SOUNDS/en;manual.wav;mana
-SOUNDS/en;auto.wav;aŭtomata
-SOUNDS/en;osd.wav;O S D
-SOUNDS/en;osdprf.wav;O S D profilo
+"String ID","Source text","Translation","Context","Path","Filename"
+"1","0","nul","","SYSTEM","0000.wav"
+"2","1","1","","SYSTEM","0001.wav"
+"3","2","2","","SYSTEM","0002.wav"
+"4","3","3","","SYSTEM","0003.wav"
+"5","4","4","","SYSTEM","0004.wav"
+"6","5","5","","SYSTEM","0005.wav"
+"7","6","6","","SYSTEM","0006.wav"
+"8","7","7","","SYSTEM","0007.wav"
+"9","8","8","","SYSTEM","0008.wav"
+"10","9","9","","SYSTEM","0009.wav"
+"11","10","10","","SYSTEM","0010.wav"
+"12","11","11","","SYSTEM","0011.wav"
+"13","12","12","","SYSTEM","0012.wav"
+"14","13","13","","SYSTEM","0013.wav"
+"15","14","14","","SYSTEM","0014.wav"
+"16","15","15","","SYSTEM","0015.wav"
+"17","16","16","","SYSTEM","0016.wav"
+"18","17","17","","SYSTEM","0017.wav"
+"19","18","18","","SYSTEM","0018.wav"
+"20","19","19","","SYSTEM","0019.wav"
+"21","20","20","","SYSTEM","0020.wav"
+"22","21","21","","SYSTEM","0021.wav"
+"23","22","22","","SYSTEM","0022.wav"
+"24","23","23","","SYSTEM","0023.wav"
+"25","24","24","","SYSTEM","0024.wav"
+"26","25","25","","SYSTEM","0025.wav"
+"27","26","26","","SYSTEM","0026.wav"
+"28","27","27","","SYSTEM","0027.wav"
+"29","28","28","","SYSTEM","0028.wav"
+"30","29","29","","SYSTEM","0029.wav"
+"31","30","30","","SYSTEM","0030.wav"
+"32","31","31","","SYSTEM","0031.wav"
+"33","32","32","","SYSTEM","0032.wav"
+"34","33","33","","SYSTEM","0033.wav"
+"35","34","34","","SYSTEM","0034.wav"
+"36","35","35","","SYSTEM","0035.wav"
+"37","36","36","","SYSTEM","0036.wav"
+"38","37","37","","SYSTEM","0037.wav"
+"39","38","38","","SYSTEM","0038.wav"
+"40","39","39","","SYSTEM","0039.wav"
+"41","40","40","","SYSTEM","0040.wav"
+"42","41","41","","SYSTEM","0041.wav"
+"43","42","42","","SYSTEM","0042.wav"
+"44","43","43","","SYSTEM","0043.wav"
+"45","44","44","","SYSTEM","0044.wav"
+"46","45","45","","SYSTEM","0045.wav"
+"47","46","46","","SYSTEM","0046.wav"
+"48","47","47","","SYSTEM","0047.wav"
+"49","48","48","","SYSTEM","0048.wav"
+"50","49","49","","SYSTEM","0049.wav"
+"51","50","50","","SYSTEM","0050.wav"
+"52","51","51","","SYSTEM","0051.wav"
+"53","52","52","","SYSTEM","0052.wav"
+"54","53","53","","SYSTEM","0053.wav"
+"55","54","54","","SYSTEM","0054.wav"
+"56","55","55","","SYSTEM","0055.wav"
+"57","56","56","","SYSTEM","0056.wav"
+"58","57","57","","SYSTEM","0057.wav"
+"59","58","58","","SYSTEM","0058.wav"
+"60","59","59","","SYSTEM","0059.wav"
+"61","60","60","","SYSTEM","0060.wav"
+"62","61","61","","SYSTEM","0061.wav"
+"63","62","62","","SYSTEM","0062.wav"
+"64","63","63","","SYSTEM","0063.wav"
+"65","64","64","","SYSTEM","0064.wav"
+"66","65","65","","SYSTEM","0065.wav"
+"67","66","66","","SYSTEM","0066.wav"
+"68","67","67","","SYSTEM","0067.wav"
+"69","68","68","","SYSTEM","0068.wav"
+"70","69","69","","SYSTEM","0069.wav"
+"71","70","70","","SYSTEM","0070.wav"
+"72","71","71","","SYSTEM","0071.wav"
+"73","72","72","","SYSTEM","0072.wav"
+"74","73","73","","SYSTEM","0073.wav"
+"75","74","74","","SYSTEM","0074.wav"
+"76","75","75","","SYSTEM","0075.wav"
+"77","76","76","","SYSTEM","0076.wav"
+"78","77","77","","SYSTEM","0077.wav"
+"79","78","78","","SYSTEM","0078.wav"
+"80","79","79","","SYSTEM","0079.wav"
+"81","80","80","","SYSTEM","0080.wav"
+"82","81","81","","SYSTEM","0081.wav"
+"83","82","82","","SYSTEM","0082.wav"
+"84","83","83","","SYSTEM","0083.wav"
+"85","84","84","","SYSTEM","0084.wav"
+"86","85","85","","SYSTEM","0085.wav"
+"87","86","86","","SYSTEM","0086.wav"
+"88","87","87","","SYSTEM","0087.wav"
+"89","88","88","","SYSTEM","0088.wav"
+"90","89","89","","SYSTEM","0089.wav"
+"91","90","90","","SYSTEM","0090.wav"
+"92","91","91","","SYSTEM","0091.wav"
+"93","92","92","","SYSTEM","0092.wav"
+"94","93","93","","SYSTEM","0093.wav"
+"95","94","94","","SYSTEM","0094.wav"
+"96","95","95","","SYSTEM","0095.wav"
+"97","96","96","","SYSTEM","0096.wav"
+"98","97","97","","SYSTEM","0097.wav"
+"99","98","98","","SYSTEM","0098.wav"
+"100","99","99","","SYSTEM","0099.wav"
+"101","100","100","","SYSTEM","0100.wav"
+"102","200","200","","SYSTEM","0101.wav"
+"103","300","300","","SYSTEM","0102.wav"
+"104","400","400","","SYSTEM","0103.wav"
+"105","500","500","","SYSTEM","0104.wav"
+"106","600","600","","SYSTEM","0105.wav"
+"107","700","700","","SYSTEM","0106.wav"
+"108","800","800","","SYSTEM","0107.wav"
+"109","900","900","","SYSTEM","0108.wav"
+"110","thousand","mil","","SYSTEM","0109.wav"
+"111","and","kaj","","SYSTEM","0110.wav"
+"112","minus","minus","","SYSTEM","0111.wav"
+"113","point","komo","","SYSTEM","0112.wav"
+"114","volt","volto","","SYSTEM","volt0.wav"
+"115","volts","voltoj","","SYSTEM","volt1.wav"
+"116","amp","ampero","","SYSTEM","amp0.wav"
+"117","amps","amperoj","","SYSTEM","amp1.wav"
+"118","milliamp","miliampero","","SYSTEM","mamp0.wav"
+"119","milliamps","miliamperoj","","SYSTEM","mamp1.wav"
+"120","knot","nodo","","SYSTEM","knot0.wav"
+"121","knots","nodoj","","SYSTEM","knot1.wav"
+"122","meter per second","metro en sekundo","","SYSTEM","mps0.wav"
+"123","meters per second","metroj en sekundo","","SYSTEM","mps1.wav"
+"124","foot per second","futo en sekundo","","SYSTEM","fps0.wav"
+"125","feet per second","futoj en sekundo","","SYSTEM","fps1.wav"
+"126","kilometer per hour","kilometro en horo","","SYSTEM","kph0.wav"
+"127","kilometers per hour","kilometroj en horo","","SYSTEM","kph1.wav"
+"128","mile per hour","mejlo en horo","","SYSTEM","mph0.wav"
+"129","miles per hour","mejloj en horo","","SYSTEM","mph1.wav"
+"130","meter","metro","","SYSTEM","meter0.wav"
+"131","meters","metroj","","SYSTEM","meter1.wav"
+"132","foot","futo","","SYSTEM","foot0.wav"
+"133","feet","futoj","","SYSTEM","foot1.wav"
+"134","degree celsius","celsia grado","","SYSTEM","celsius0.wav"
+"135","degrees celsius","celsiaj gradoj","","SYSTEM","celsius1.wav"
+"136","degree fahrenheit","farenhejta grado","","SYSTEM","fahr0.wav"
+"137","degrees fahrenheit","farenhejtaj gradoj","","SYSTEM","fahr1.wav"
+"138","percent","procento","","SYSTEM","percent0.wav"
+"139","percent","procentoj","","SYSTEM","percent1.wav"
+"140","milliamp-hour","miliamperhoro","","SYSTEM","mamph0.wav"
+"141","milliamp-hours","miliamperhoroj","","SYSTEM","mamph1.wav"
+"142","watt","vato","","SYSTEM","watt0.wav"
+"143","watts","vatoj","","SYSTEM","watt1.wav"
+"144","milli-watt","milivato","","SYSTEM","mwatt0.wav"
+"145","milli-watts","milivatoj","","SYSTEM","mwatt1.wav"
+"146","DB","decibelo","","SYSTEM","db0.wav"
+"147","DB","decibeloj","","SYSTEM","db1.wav"
+"148","RPM","rivoluo en minuto","","SYSTEM","rpm0.wav"
+"149","RPM","rivoluoj en minuto","","SYSTEM","rpm1.wav"
+"150","G","go-o","","SYSTEM","g0.wav"
+"151","G","go-oj","","SYSTEM","g1.wav"
+"152","degree","grado","","SYSTEM","degree0.wav"
+"153","degrees","gradoj","","SYSTEM","degree1.wav"
+"154","radian","radiano","","SYSTEM","rad0.wav"
+"155","radians","radianoj","","SYSTEM","rad1.wav"
+"156","milliliter","mililitro","","SYSTEM","ml0.wav"
+"157","milliliters","mililitroj","","SYSTEM","ml1.wav"
+"158","fluid ounce","fluidunco","","SYSTEM","founce0.wav"
+"159","fluid ounces","fluiduncoj","","SYSTEM","founce1.wav"
+"160","milliliter per minute","mililitro en minuto","","SYSTEM","mlpm0.wav"
+"161","milliliters per minute","mililitroj en minuto","","SYSTEM","mlpm1.wav"
+"162","hertz","herco","","SYSTEM","hertz0.wav"
+"163","hertz","hercoj","","SYSTEM","hertz1.wav"
+"164","millisecond","milisekundo","","SYSTEM","ms0.wav"
+"165","milliseconds","milisekundoj","","SYSTEM","ms1.wav"
+"166","microsecond","mikrosekundo","","SYSTEM","us0.wav"
+"167","microseconds","mikrosekundoj","","SYSTEM","us1.wav"
+"168","hour","horo","","SYSTEM","hour0.wav"
+"169","hours","horoj","","SYSTEM","hour1.wav"
+"170","minute","minuto","","SYSTEM","minute0.wav"
+"171","minutes","minutoj","","SYSTEM","minute1.wav"
+"172","second","sekundo","","SYSTEM","second0.wav"
+"173","seconds","sekundoj","","SYSTEM","second1.wav"
+"174","point zero","komo nul","","SYSTEM","0167.wav"
+"175","point one","komo unu","","SYSTEM","0168.wav"
+"176","point two","komo du","","SYSTEM","0169.wav"
+"177","point three","komo tri","","SYSTEM","0170.wav"
+"178","point four","komo kvar","","SYSTEM","0171.wav"
+"179","point five","komo kvin","","SYSTEM","0172.wav"
+"180","point six","komo ses","","SYSTEM","0173.wav"
+"181","point seven","komo sep","","SYSTEM","0174.wav"
+"182","point eight","komo ok","","SYSTEM","0175.wav"
+"183","point nine","komo naŭ","","SYSTEM","0176.wav"
+"184","trim center","centrita kompensilo","","SYSTEM","midtrim.wav"
+"185","maximum trim reached","maksimuma kompensilo","","SYSTEM","maxtrim.wav"
+"186","minimum trim reached","minimuma kompensilo","","SYSTEM","mintrim.wav"
+"187","timer 1 elapsed","tempumilo 1 finiĝinta","","SYSTEM","timovr1.wav"
+"188","timer 2 elapsed","tempumilo 2 finiĝinta","","SYSTEM","timovr2.wav"
+"189","timer 3 elapsed","tempumilo 3 finiĝinta","","SYSTEM","timovr3.wav"
+"190","transmitter battery low","senŝarga radio","","SYSTEM","lowbatt.wav"
+"191","inactivity alarm","neaktiva radio","","SYSTEM","inactiv.wav"
+"192","throttle warning","averto: aktiva gasostango","","SYSTEM","thralert.wav"
+"193","switch warning","averto: aktivaj ŝaltiloj","","SYSTEM","swalert.wav"
+"194","bad eeprom","difekta eepromo","","SYSTEM","eebad.wav"
+"195","Welcome to EdgeTX","Bonvenon al Eĝ To Iks'!","","SYSTEM","hello.wav"
+"196","RF signal low","malalta radiosignalo","","SYSTEM","rssi_org.wav"
+"197","RF signal critical","kriza radiosignalo","","SYSTEM","rssi_red.wav"
+"198","radio antenna defective","difekta radioanteno","","SYSTEM","swr_red.wav"
+"199","telemetry lost","perdita telemetrio","","SYSTEM","telemko.wav"
+"200","telemetry recovered","reakirita telemetrio","","SYSTEM","telemok.wav"
+"201","Trainer connected","konektita trejnistosignalo","","SYSTEM","trainco.wav"
+"202","trainer signal lost","perdita trejnistosignalo","","SYSTEM","trainko.wav"
+"203","trainer signal recovered","reakirita trejnistosignalo","","SYSTEM","trainok.wav"
+"204","sensor lost","perdita sensoro","","SYSTEM","sensorko.wav"
+"205","servo overload","troŝarĝita relajso","","SYSTEM","servoko.wav"
+"206","power overload","povumotroŝarĝo","","SYSTEM","rxko.wav"
+"207","receiver still connected","ricevilo ankoraŭ konektita","","SYSTEM","modelpwr.wav"
+"208","armed","armita","","","armed.wav"
+"209","disarmed","malarmita","","","disarm.wav"
+"210","throttle cut","gaso tranĉita","","","thrcut.wav"
+"211","throttle active","gaso aktiva","","","thract.wav"
+"212","gear up","ĉareto malfermita","plane","","gearup.wav"
+"213","gear down","ĉareto fermita","plane","","geardn.wav"
+"214","flaps up","postklapoj supre","plane","","flapup.wav"
+"215","flaps down","postklapoj sube","plane","","flapdn.wav"
+"216","spoiler up","defleksilo supre","","","splrup.wav"
+"217","spoiler down","defleksilo sube","","","splrdn.wav"
+"218","trainer on","trejnisto aktiva","","","trnon.wav"
+"219","trainer off","trejnisto neaktiva","","","trnoff.wav"
+"220","engine off","motoro neaktiva","","","engoff.wav"
+"221","too high","tro alta!","","","tohigh.wav"
+"222","too low","tro malalta!","","","tolow.wav"
+"223","low battery","senŝarga baterio","","","lowbat.wav"
+"224","crow on","birdobremso aktiva","","","crowon.wav"
+"225","crow off","birdobremso neaktiva","","","crowof.wav"
+"226","RF signal low","malalta radiosignalo","rc-link","","siglow.wav"
+"227","RF signal critical","kriza radiosignalo","rc-link","","sigcrt.wav"
+"228","LQ","Lo Kuo","rc-link","","lq.wav"
+"229","RF mode","radiofrekvenca reĝimo","rc-link","","rfmode.wav"
+"230","high speed mode active","altrapida reĝimo aktiva","rc-link","","spdmod.wav"
+"231","thermal mode on","termika reĝimo","","","thmmod.wav"
+"232","normal mode on","normala reĝimo","","","nrmmod.wav"
+"233","landing mode on","alteriĝa reĝimo","","","lnding.wav"
+"234","acro mode on","akrobata reĝimo","","","acro.wav"
+"235","flight mode one","flugreĝimo unu","","","fm-1.wav"
+"236","flight mode two","flugreĝimo du","","","fm-2.wav"
+"237","flight mode three","flugreĝimo tri","","","fm-3.wav"
+"238","flight mode four","flugreĝimo kvar","","","fm-4.wav"
+"239","flight mode five","flugreĝimo kvin","","","fm-5.wav"
+"240","flight mode six","flugreĝimo ses","","","fm-6.wav"
+"241","flight mode seven","flugreĝimo sep","","","fm-7.wav"
+"242","flight mode eight","flugreĝimo ok","","","fm-8.wav"
+"243","vario on","variometro aktiva","","","vrion.wav"
+"244","vario off","variometro neaktiva","","","vrioff.wav"
+"245","flight mode power","flugreĝimo potenco","","","fm-pwr.wav"
+"246","flight mode land","flugreĝimo alteriĝo","","","fm-lnd.wav"
+"247","flight mode float","flugreĝimo gliso","","","fm-flt.wav"
+"248","flight mode speed","flugreĝimo rapideco","","","fm-spd.wav"
+"249","flight mode fast","flugreĝimo rapida","","","fm-fst.wav"
+"250","flight mode normal","flugreĝimo normala","","","fm-nrm.wav"
+"251","flight mode cruise","flugreĝimo krozado","","","fm-crs.wav"
+"252","flight mode acro","flugreĝimo akrobata","","","fm-acr.wav"
+"253","flight mode race","flugreĝimo konkurso","","","fm-rce.wav"
+"254","flight mode launch","flugreĝimo ĵeto","","","fm-lch.wav"
+"255","flight mode ping","flugreĝimo resalto","","","fm-png.wav"
+"256","flight mode thermal","flugreĝimo termika","","","fm-thm.wav"
+"257","flight mode thermal left","flugreĝimo termika live","","","fm-thl.wav"
+"258","flight mode thermal right","flugreĝimo termika dekstre","","","fm-thr.wav"
+"259","flight mode stabilize","flugreĝimo stabiligita","","","fm-stb.wav"
+"260","flight mode horizon","flugreĝimo horizonta","","","fm-hor.wav"
+"261","flight mode angle","flugreĝimo angula","","","fm-ang.wav"
+"262","flight mode idle up 1","flugreĝimo senkluĉa 1","","","fm-id1.wav"
+"263","flight mode idle up 2","flugreĝimo senkluĉa 2","","","fm-id2.wav"
+"264","low rate","malalta rapido","","","ratlow.wav"
+"265","medium rate","meza rapido","","","ratmed.wav"
+"266","high rate","alta rapido","","","rathi.wav"
+"267","take off","ekflugo","","","takeof.wav"
+"268","sport","sporto","","","sport.wav"
+"269","pattern","skemo","","","pattrn.wav"
+"270","3D","tri do","","","3d.wav"
+"271","landing","alteriĝo","","","landin.wav"
+"272","idle up 1","senkluĉa 1","","","idleu1.wav"
+"273","idle up 2","senkluĉa 2","","","idleu2.wav"
+"274","normal mode","normala reĝimo","","","normod.wav"
+"275","bank 0","benko nul","","","bank-0.wav"
+"276","bank 1","benko 1","","","bank-1.wav"
+"277","bank 2","benko 2","","","bank-2.wav"
+"278","bank 3","benko 3","","","bank-3.wav"
+"279","heading lock","direktoŝlosado","","","headlo.wav"
+"280","rate mode","rapida reĝimo","","","ratmod.wav"
+"281","3D Mode","tridimensia reĝimo","","","3d-mod.wav"
+"282","stabilize mode","stabiligita reĝimo","","","stabmo.wav"
+"283","on","ek","","","on.wav"
+"284","off","for","","","off.wav"
+"285","buzzer active","zumilo aktiva","","","buzact.wav"
+"286","crash-flip active","kraŝturniĝo aktiva","multicopter","","crfact.wav"
+"287","blackbox active","nigra skatolo aktiva","","","blkact.wav"
+"288","pre-arm active","antaŭarmado aktiva","","","preact.wav"
+"289","stable mode","stabila reĝimo","","","stbmod.wav"
+"290","brakes on","bremsoj aktivaj","plane","","brakon.wav"
+"291","brakes off","bremsoj neaktivaj","plane","","brakof.wav"
+"292","butterfly on","papilio aktiva","","","btfon.wav"
+"293","butterfly off","papilio neaktiva","","","btfoff.wav"
+"294","flaps one","postklapoj unu","plane","","flp1.wav"
+"295","flaps two","postklapoj du","plane","","flp2.wav"
+"296","flaps three","postklapoj tri","plane","","flp3.wav"
+"297","flaps four","postklapoj kvar","plane","","flp4.wav"
+"298","flaps five","postklapoj kvin","plane","","flp5.wav"
+"299","wingsweep","alangulo","plane","","wngswp.wav"
+"300","wheelbrakes on","radobremsoj aktivaj","plane","","whlbro.wav"
+"301","wheelbrakes off","radobremsoj neaktivaj","plane","","whlbrf.wav"
+"302","manual mode","mana reĝimo","","","manmod.wav"
+"303","acro mode","akrobata reĝimo","","","acrmod.wav"
+"304","angle mode","angula reĝimo","","","angmod.wav"
+"305","horizon mode","horizonta reĝimo","","","hznmod.wav"
+"306","launch mode","starta reĝimo","","","lncmod.wav"
+"307","air mode","aera reĝimo","","","airmod.wav"
+"308","pit mode","remiza reĝimo","","","pitmod.wav"
+"309","navigation cruise","navigado krozado","autopilot","","navcrs.wav"
+"310","navigation course hold","navigado raŭtodeteno","autopilot","","navcsh.wav"
+"311","navigation altitude hold","navigado altitudodeteno","autopilot","","navalh.wav"
+"312","navigation position hold","navigado poziciodeteno","autopilot","","navpos.wav"
+"313","navigation return to home","navigado rehejmiĝo","autopilot","","navrth.wav"
+"314","navigation waypoint","navigado vojpunkto","autopilot","","navwp.wav"
+"315","cruise","krozado","autopilot","","cruise.wav"
+"316","course hold","raŭtodeteno","autopilot","","crshld.wav"
+"317","altitude hold","altitudodeteno","autopilot","","althld.wav"
+"318","position hold","poziciodeteno","autopilot","","poshld.wav"
+"319","return to home","rehejmiĝo","autopilot","","rth.wav"
+"320","waypoint","vojpunkto","autopilot","","waypnt.wav"
+"321","manual","mana","","","manual.wav"
+"322","auto","aŭtomata","","","auto.wav"
+"323","OSD","o so do","video","","osd.wav"
+"324","OSD profile","o so do profilo","video","","osdprf.wav"
+"325","attitude hold mode","pozdetena reĝimo","autopilot","","sxrahd.wav"
+"326","manual mode","mana reĝimo","","","sxrman.wav"
+"327","stabilizer mode","stabiliga reĝimo","","","sxrsmd.wav"
+"328","stabilizer off","stabiligilo neaktiva","","","sxrsof.wav"
+"329","stabilizer on","stabiligilo aktiva","","","sxrstb.wav"
+"330","wind rejection mode","ventmalakcepta reĝimo","","","sxrwr.wav"
+"331","turtle mode on","testuda reĝimo aktiva","multicopter","","turton.wav"
+"332","turtle mode off","testuda reĝimo neaktiva","multicopter","","turtof.wav"
+"333","flip","inversigo","","","flip.wav"
+"334","autorotation","memrotacio","heli","","auro.wav"
+"335","failsafe active","panetoleremo aktiva","","","fsact.wav"
+"336","failsafe off","panetoleremo neaktiva","","","fsoff.wav"
+"391","air mode on","aera reĝimo aktiva","","","airmon.wav"
+"392","air mode off","aera reĝimo neaktiva","","","airmof.wav"
+"429","GPS","navigilo","","","gps.wav"
+"452","DBM","do bo mo","","SYSTEM","dbm0.wav"
+"453","DBM","do bo moj","","SYSTEM","dbm1.wav"
+"454","kilometer","kilometro","","SYSTEM","km0.wav"
+"455","kilometers","kilometroj","","SYSTEM","km1.wav"
+"461","telemetry connected","konektita telemetrio","","SYSTEM","telemco.wav"
+"462","level mode","nivela reĝimo","flight controller","","lvlmod.wav"
+"467","engine on","motoro aktiva","car","","engon.wav"
