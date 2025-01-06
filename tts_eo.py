@@ -113,7 +113,6 @@ def tts_eo(path, name, text):
         file.write(response.content)
 
     # convert from mp3 @ 22050 kHz to wav @ 32000 kHz (required by EdgeTX)
-    print(f'sox {source} -r 32000 {destination}')
     os.system(f'sox {source} -r 32000 {destination}')
 
 

@@ -57,6 +57,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Current                                          | Kurento                                            |
 | - Power                                            | Povumo                                             |
 | - Cell                                             | Ĉelo                                               |
+| - Connector                                        | Konektilo                                          |
 | - Battery Eliminator Circuit (BEC)                 | Bateriforiganta cirkvito                           |
 | Flight controller                                  | Flugregilo                                         |
 | Electronic Speed Controller (ESC)                  | Elektronika rapidregilo                            |
@@ -83,8 +84,11 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Radio-controlled (RC)                              | Radioregata                                        |
 | Radio-controller                                   | Radioregilo                                        |
 | Trainer                                            | Trejnisto                                          |
-| (Frequency) band                                   | (Frekvenc)bendo                                    |
-| Channel                                            | Kanalo                                             |
+| Frequency                                          | Frekvenco                                          |
+| - Band                                             | Bendo                                              |
+| - Channel                                          | Kanalo                                             |
+| - Race band                                        | Konkursa bendo                                     |
+| - Low band                                         | Malalta bendo                                      |
 | Telemetry                                          | Telemetrio                                         |
 | Failsafe                                           | Panetolera, panetoleremo                           |
 | Beacon                                             | Radiogvidilo                                       |
@@ -92,6 +96,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | Bind                                               | Bindi                                              |
 | Bando                                              | Forlasejo                                          |
 | Stick                                              | Stango                                             |
+| - Stick commands                                   | Stangokomandoj                                     |
 | Switch                                             | Ŝaltilo                                            |
 | Servo-                                             | Relajso-                                           |
 | Trim                                               | Kompensilo                                         |
@@ -122,12 +127,15 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Stabilized                                       | Stabiligita                                        |
 | - 3D                                               | Tridimensia                                        |
 | - Turtle (crash-flip)                              | Testuda (kraŝturniĝo)                              |
-| - Head-less                                        | Senkapa                                            |
+| - Headless                                         | Senkapa                                            |
+| - Acro trainer                                     | Akrobata trejnista                                 |
 | Air mode                                           | Aera reĝimo                                        |
 | Pit mode                                           | Remiza reĝimo                                      |
 | Launch mode                                        | Starta reĝimo                                      |
 | Return to home                                     | Rehejmiĝo                                          |
+| Rescue mode                                        | Sava reĝimo                                        |
 | Launch control                                     | Startokontrolo                                     |
+| Angle mix                                          | Angulmiksado                                       |
 | Resistor                                           | Rezistanco                                         |
 | Capacitor                                          | Kondensatoro                                       |
 | Inductor                                           | Induktilo, bobeno                                  |
