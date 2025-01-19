@@ -126,4 +126,13 @@ for line in lines[1:]:
     print(f'Generating {path}/{filename}...')
     tts_eo(path, filename, translation)
 
+with open("eo-EO_scripts.csv") as file:
+    lines = file.readlines()
+
+for line in lines[1:]:
+    string_id, source_text, translation, context, path, filename = [field.replace('"', '') for field in line.split(',')]
+    path = "SOUNDS/en/SCRIPTS/" + path
+    print(f'Generating {path}/{filename}...')
+    tts_eo(path, filename, translation)
+
 os.system("rm temp.mp3")

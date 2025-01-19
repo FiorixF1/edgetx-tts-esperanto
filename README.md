@@ -30,10 +30,14 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Unmanned Aerial Vehicle (UAV)                    | Senpilota aviadilo (spavo)                         |
 | - Racing drone                                     | Vetkura droneo                                     |
 | - Freestyle drone                                  | Liberstila droneo                                  |
+| - Cinematic drone                                  | Kinematika droneo                                  |
 | - Long range drone                                 | Longdistanca droneo                                |
 | - Quadcopter, quadrotor, quad                      | Kvarkoptero, kvarrotoro, kvaro                     |
+| - Toothpick                                        | Dentopikilo                                        |
 | Frame                                              | Kadro                                              |
 | - Carbon fiber                                     | Karbonfibro                                        |
+| - Standoff                                         | Koloneto                                           |
+| - Mount                                            | Muntumo                                            |
 | - Canopy                                           | Tuko                                               |
 | Motor                                              | Motoro                                             |
 | - Brushed motor                                    | Brosa motoro                                       |
@@ -171,6 +175,7 @@ Tamen multaj specifaj vortoj uzataj en dinamika modelismo ofte ne havas rektan t
 | - Filters                                          | Filtriloj                                          |
 | - Black box                                        | Nigra skatolo                                      |
 | - Tuning                                           | Rafinado                                           |
+| - Setpoint                                         | Celpunkto                                          |
 | Race elements                                      | Konkursaj elementoj                                |
 | - Gate                                             | Pasejo                                             |
 | - Flag                                             | Flago                                              |
